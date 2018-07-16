@@ -1,4 +1,11 @@
-# coding=utf-8
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+# Author:pitmaner
+# Datetime:2018/7/16 下午10:53
+# Software: PyCharm
+# Project: dataleaner
+# Filename: ng_line_parser
+
 import datetime
 import urllib
  
